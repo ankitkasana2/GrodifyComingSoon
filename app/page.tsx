@@ -17,7 +17,7 @@ export default function Page() {
 
         {/* Main Heading */}
         <div className="space-y-4">
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white text-balance leading-tight">
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-bold text-white text-balance leading-tight">
             We're working on something amazing.
           </h1>
           <p className="text-2xl md:text-3xl font-light text-slate-300 text-balance">
